@@ -3,4 +3,5 @@ using namespace std;
 
 int main(){
     cout << "Duc Tri is handsome";
+    return 0;
 }
