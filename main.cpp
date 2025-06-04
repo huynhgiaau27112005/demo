@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << "Au is uglier than Duc Tri";
+    cout << "Minh Tri is more handsome than Duc Tri";
     cout << "Feature login";
     return 0;
 }
